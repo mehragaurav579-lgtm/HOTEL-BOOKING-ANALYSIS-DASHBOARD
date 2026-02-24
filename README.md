@@ -1,6 +1,3 @@
-Bilkul bhai 🔥
-Yeh raha complete professional README.md — bas copy-paste karke GitHub me daal de 👇
-
 # 📊 Hotel Booking Analytics Dashboard | Power BI Project
 
 ![Dashboard Preview](dashboard_preview.png)
