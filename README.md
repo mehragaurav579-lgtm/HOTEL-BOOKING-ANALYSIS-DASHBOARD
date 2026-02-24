@@ -90,12 +90,3 @@ Through this project, I improved my skills in:
 - Business Insight Extraction  
 - Dashboard Design Best Practices  
 
----
-
-## 🤝 Connect With Me
-
-If you have any suggestions, feedback, or collaboration opportunities, feel free to connect with me on LinkedIn.
-
----
-
-⭐ If you found this project helpful, don’t forget to give it a star!
